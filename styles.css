@@ -1,0 +1,22 @@
+h1 
+{ background-color: rgb(101, 241, 195);
+    height: 2cm;
+    color: rgb(5, 139, 139);
+    text-align: center;
+    text-align-last: center;
+    font-size: large; 
+    font-style: italic;
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    line-height: 2cm;
+}
+p 
+{ color: #0f553e; 
+    font-size: medium; 
+    font-style: normal;
+    text-align: left;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
